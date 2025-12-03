@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Planta lovers",
+  "description": "A visual AI-powered plant identifier and personal botanical journal.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
